@@ -4,13 +4,12 @@
     ![MKS TinyBee](https://github.com/makerbase-mks/MKS-TinyBee/blob/main/hardware/Image/MKS%20TinyBee%20V1.x.png)
 
 # How to buy MKS TinyBee
-- Makerbase official: https://www.aliexpress.com/item/1005003639545394.html
-- Makerbase Global:   https://www.aliexpress.com/item/1005003640084870.html
-
+  - https://www.bdtronics.com/mks-tinybee-motherboard-32bit-3d-printer-control-board-esp32-mcu.html
+  - 
 # Features
   - Support Marlin 2.0.x
-  - Support LCD2004/12864, [MKS MINI12864 V3](https://www.aliexpress.com/store/group/LCD/1047297_516922172.html?spm=a2g0o.detail.0.0.497c6bdbl6nCQJ)
-  - Support [MKS TFT](https://www.aliexpress.com/store/group/TFT/1047297_516922169.html?spm=a2g0o.store_pc_groupList.pcShopHead_8325768.1_1_0) series screen, MKS TFT24/28/32/35
+  - Support LCD2004/12864, [MKS MINI12864 V3] - https://www.bdtronics.com/makerbase-mks-12864-v3-0-smart-lcd-with-sd-card-slot.html
+  - Support [MKS TFT]
   - Use USB upload firmware
   - Printing by connect wifi web control
 
