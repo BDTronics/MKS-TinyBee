@@ -5,7 +5,7 @@
 
 # How to buy MKS TinyBee
   - https://www.bdtronics.com/mks-tinybee-motherboard-32bit-3d-printer-control-board-esp32-mcu.html
-  - 
+  
 # Features
   - Support Marlin 2.0.x
   - Support LCD2004/12864, [MKS MINI12864 V3] - https://www.bdtronics.com/makerbase-mks-12864-v3-0-smart-lcd-with-sd-card-slot.html
